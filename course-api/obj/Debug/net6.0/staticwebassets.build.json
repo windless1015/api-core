@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GEEl2dnoBfI3JyFe7KATuJ04kCDTrDw8PV/S58kVENY=",
+  "Source": "course-api",
+  "BasePath": "_content/course-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
